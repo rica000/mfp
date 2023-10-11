@@ -3,3 +3,5 @@ import MarketingApp from "./components/MarketingApp";
 export default () => {
   return <MarketingApp />;
 };
+
+console.log('test')
